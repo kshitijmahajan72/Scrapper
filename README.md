@@ -1,4 +1,4 @@
-# Scrapper
+# Web Scrapper
 <h3>WEB SCRAPER</h3>
 Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext 
 The scrappy module of python makes it simple to extract data and store it in csv or excel files.
